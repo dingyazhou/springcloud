@@ -8,10 +8,10 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.eureke</groupId>
-    <artifactId>eureke</artifactId>
+    <groupId>com.eureka</groupId>
+    <artifactId>eureka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureke</name>
+    <name>eureka</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
